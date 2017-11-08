@@ -6,23 +6,17 @@
 
 特点
 ----
-* 开箱即用(Fork 本项目立马可以使用)
-* markdown only ,让你专注文章本身
-* 友好的移动端支持
-* 灵活的样式扩展，[Extension](./vendor/extension/)
-
-[文档 & DEMO](http://jayin.github.io/silentor/)
-
-[🚀教程:1分钟快速构建你的silentor博客](http://jayinton.com/silentor/?docs/getting-start/main.md)
+* 在原先的基础上修改为可以在IntelliJ IDEA中运行的web项目
+* clone后打开替换为自己的markdown文件即可
 
 Developement
 ------------
+1. fork，再clone到本地
+2. 修改webapp中p文件中的相应的markdown文件
 
-```
-npm install
-make serve
-make dev
-```
+Demo
+---------
+[Fly's HOME PAGE](https://flyzy2005.cn/)
 
 License
 ===
